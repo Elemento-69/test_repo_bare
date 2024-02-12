@@ -2,3 +2,8 @@ Añadiendo  12022024 0934
 files1/arch1
 files1/arch2
 files1/arch3
+Añadiendo 12022024 0950
+filesbare1/archbare1
+fliesbare1/archbare2
+filesbare1/archbare3
+filesbare1/archbare4
