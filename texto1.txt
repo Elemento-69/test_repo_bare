@@ -1,4 +1,4 @@
 Añadiendo  12022024 0934
 files1/arch1
 files1/arch2
-files2/arch3
+files1/arch3
